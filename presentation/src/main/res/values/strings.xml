@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Maru</string>
+    <string name="title_health">건강 정보</string>
+    <string name="text_name">이름</string>
+    <string name="hintName">예) 홍길동</string>
+    <string name="text_age">나이</string>
+    <string name="hintAge">예) 60세</string>
+    <string name="text_disease">의학적 질환</string>
+    <string name="hintDisease">예) 당뇨, 뇌졸증</string>
+    <string name="text_history">의료기록</string>
+    <string name="hintHistory">예) 맹장수술, 인대수술</string>
+    <string name="text_allergy">알레르기 및 약물 부작용</string>
+    <string name="hintAllergy">예) 꽃가루 알레르기, 스테로이드</string>
+    <string name="text_blood">혈액형</string>
+    <string name="hintBlood">O형</string>
+    <string name="text_weight">체중</string>
+    <string name="text_height">키</string>
+    <string name="title_md">약 알림 정보</string>
+    <string name="text_morning">아침 약 시간(선택사항)</string>
+    <string name="hintTime">12\n</string>
+    <string name="text_lunch">점심 약 시간(선택사항)</string>
+    <string name="text_dinner">저녁 약 시간(선택사항)</string>
+    <string name="title_setting">설정</string>
+    <string name="text_notice">공지사항</string>
+    <string name="text_private">개인정보 처리 방침</string>
+    <string name="text_terms">이용약관</string>
+    <string name="text_version">버전 : 1.0.0</string>
+    <string name="title_news">오늘의 뉴스</string>
+    <string name="title_desease">의학적 질환</string>
+    <string name="disease_no">취소하기</string>
+    <string name="disease_yes">확인하기</string>
+    <string name="text_checkBox">당뇨</string>
+    <string name="title_time">12 : 31</string>
+    <string name="text_date">6월 21일 수요일</string>
+    <string name="text_heal">의료정보 확인</string>
+    <string name="lock_pass">닫기</string>
+    <string name="title_heal">의료정보</string>
+    <string name="text_realname">이름 : 양예성</string>
+    <string name="text_realage">만 16세</string>
+    <string name="text_realcall">전화번호 : 010-0000-0000</string>
+    <string name="text_realdisease">의학적 질환 : 당뇨</string>
+    <string name="text_realBlood">혈액형 : O형</string>
+    <string name="text_realheight">키 : 171 cm</string>
+    <string name="text_realweight">체중 : 54 kg</string>
+    <string name="text_realhistory">의료 기록 : 맹장수술</string>
+
+</resources>
